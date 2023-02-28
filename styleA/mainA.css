@@ -1,0 +1,109 @@
+/*****GENERAL*****/
+
+body {
+  background-color: rgb(247, 222, 247);
+  margin: 0;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+/*****BODY IMG*****/
+#heart img {
+  width: 400px;
+  margin: auto;
+  display: block;
+}
+
+#fotos img {
+  width: 400px;
+  margin: auto;
+  display: block;
+
+}
+
+/*****HEADER*****/
+header {
+  background-color: rgb(249, 210, 249);
+  margin: 0;
+  text-align: center;
+  padding: 10px 0 0 0;
+}
+
+h1 {
+  margin: 0;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-transform: uppercase;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav li {
+  display: inline-block;
+  padding: 20px 15px 20px 15px;
+}
+
+nav li:hover {
+  background-color: rgb(186, 99, 173)
+}
+
+nav li a {
+  text-decoration: none;
+  color: rgb(60, 1, 76);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/*****CONTENT*****/
+#main-content p {
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  padding: 30px 5px;
+}
+
+#motivos p {
+  padding: 10px;
+}
+
+#MList li {
+  margin: 30px 5px 5px 25px;
+}
+
+#titlemusic h3 {
+  font-size: 18px;
+  margin: 25px 10px 30px 25px;
+}
+
+#music li a {
+  text-decoration: none;
+  color: black;
+}
+
+#music li {
+  margin: 25px 20px 20px 50px;
+
+}
+
+#titleCoisas h3 {
+  font-size: 18px;
+  margin: 25px 10px 30px 25px;
+}
+
+#coisas li {
+  margin: 25px 5px 5px 25px;
+}
+
+#lugares li a {
+  text-decoration: none;
+  color: black;
+}
+
+#lugares li {
+  margin: 25px 20px 20px 50px;
+}
+
+#titleLugares h3 {
+  font-size: 18px;
+  margin: 25px 10px 30px 25px;
+}
